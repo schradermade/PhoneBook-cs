@@ -1,0 +1,12 @@
+/Users/schradermade/Desktop/epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.csprojAssemblyReference.cache
+/Users/schradermade/Desktop/epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.AssemblyInfoInputs.cache
+/Users/schradermade/Desktop/epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.AssemblyInfo.cs
+/Users/schradermade/Desktop/epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/schradermade/Desktop/epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.deps.json
+/Users/schradermade/Desktop/epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.runtimeconfig.json
+/Users/schradermade/Desktop/epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.runtimeconfig.dev.json
+/Users/schradermade/Desktop/epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.dll
+/Users/schradermade/Desktop/epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.pdb
+/Users/schradermade/Desktop/epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.dll
+/Users/schradermade/Desktop/epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.pdb
+/Users/schradermade/Desktop/epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.genruntimeconfig.cache

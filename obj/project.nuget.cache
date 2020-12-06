@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yW0LAWQpSsi7UgVr2VLOQ/uaaqBazWkLD1ifO97zDRoeD/tl2aTC2NGxN008IL65LIp/ZN/o1oobLBW8MjhtPA==",
+  "success": true,
+  "projectFilePath": "/Users/schradermade/Desktop/epicodus/PhoneBook/PhoneBook.csproj",
+  "expectedPackageFiles": [
+    "/Users/schradermade/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/Users/schradermade/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/Users/schradermade/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/Users/schradermade/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/Users/schradermade/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/Users/schradermade/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/schradermade/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
